@@ -1,0 +1,34 @@
+{
+  "basics":{
+  "photo":"download.jpg",
+  "name":"nirosha",
+  "email":"niroshaniru1221@gmail.com",
+  "phoneno":"96571234567",
+  "address":"chittoor"
+},
+"career":{
+  "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal."
+},
+"education":[
+{
+  "course":"MCA",
+  "college":"SVPCET,puttur",
+  "data":["2016-2019","71%"]
+},
+{
+"course":"BSC[MScsc]",
+  "college":"SRDC,PUTTUR",
+  "data":["2013-2016","71%"]
+},
+{
+  "course":"MPC",
+  "college":"SCJC,tpt",
+  "data":["2011-2013","71%"]
+},
+{
+  "course":"10th",
+  "school":"svvm,katherpalli",
+  "data":["2010-2011","85%"]
+}
+]
+}
